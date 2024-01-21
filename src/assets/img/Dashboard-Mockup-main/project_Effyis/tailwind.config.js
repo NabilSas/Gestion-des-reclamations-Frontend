@@ -1,0 +1,55 @@
+module.exports = {
+  mode: "jit",
+  content: [
+    "./src/**/**/*.{js,ts,jsx,tsx,html,mdx}",
+    "./src/**/*.{js,ts,jsx,tsx,html,mdx}",
+  ],
+  darkMode: "class",
+  theme: {
+    screens: { md: { max: "1050px" }, sm: { max: "550px" } },
+    extend: {
+      colors: {
+        blue_gray: {
+          50: "#eef0fa",
+          300: "#a5a7b1",
+          400: "#8a8c96",
+          "50_01": "#eef0f9",
+        },
+        pink: {
+          600: "#d23565",
+          900: "#7f1f67",
+          "600_01": "#e01461",
+          "600_1e": "#d235651e",
+          "600_14": "#d2356514",
+          "600_19": "#d2356519",
+        },
+        red: { 300: "#cc5f5f" },
+        green: { 500: "#519c66" },
+        black: { 900: "#000000" },
+        orange: { 200: "#ffcc91", "200_28": "#ffcc9128" },
+        gray: {
+          100: "#f4f5f9",
+          300: "#dbdeee",
+          400: "#bec0c9",
+          600: "#787486",
+          800: "#44464d",
+          900: "#0d062d",
+          "900_01": "#1c1d22",
+          "300_01": "#e0e2e8",
+          "100_01": "#f1f2f8",
+        },
+        deep_purple: { A200_26: "#8833ff26" },
+        indigo: { 200: "#96a5ea" },
+        white: { A700_28: "#ffffff28", A700: "#ffffff" },
+      },
+      fontFamily: {
+        inter: "Inter",
+        poppins: "Poppins",
+        dmmono: "DM Mono",
+        dmsans: "DM Sans",
+      },
+      textShadow: { ts: "0px 10px  30px #8833ff26" },
+    },
+  },
+  plugins: [require("@tailwindcss/forms"), require("tailwindcss-textshadow")],
+};

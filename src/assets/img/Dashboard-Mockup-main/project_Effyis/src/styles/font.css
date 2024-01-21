@@ -1,0 +1,8 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansMedium.ttf"); font-family : "DM Sans"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansBold.ttf"); font-family : "DM Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMSansRegular.ttf"); font-family : "DM Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/DMMonoRegular.ttf"); font-family : "DM Mono"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/PoppinsMedium.ttf"); font-family : "Poppins"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/InterMedium.ttf"); font-family : "Inter"; font-weight : 500;  }
