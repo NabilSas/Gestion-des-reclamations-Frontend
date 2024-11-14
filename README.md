@@ -69,8 +69,6 @@ Un grand merci à tous les collaborateurs qui ont contribué à ce projet :
 
 - **Abdelmonaim Erraji**: Pour sa contribution exceptionnelle dans le développement et la conception.
 - **Anas Ouatil**: Pour son engagement et son travail acharné tout au long du processus.
-- **Ahmed Sayout**: Pour ses précieuses suggestions et son dévouement à l'amélioration continue.
-- **Aya Kharbouch et Omaima Ait Zaouit**: Pour leur participation active et leur soutien précieux.
 
 J'apprécie chacune de vos contributions et suis ravi de collaborer ensemble.
 
